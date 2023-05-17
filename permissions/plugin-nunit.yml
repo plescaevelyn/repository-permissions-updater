@@ -9,3 +9,6 @@ paths:
 developers:
   - "kinow"
   - "smorita"
+  - "jonesbusy"
+cd:
+  enabled: true

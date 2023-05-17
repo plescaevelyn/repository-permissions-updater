@@ -7,3 +7,6 @@ paths:
   - "io/jenkins/plugins/login-theme"
 developers:
   - "oleg_nenashev"
+  - "jonesbusy"
+cd:
+  enabled: true

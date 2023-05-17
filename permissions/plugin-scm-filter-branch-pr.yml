@@ -7,3 +7,6 @@ paths:
   - "org/jenkins-ci/plugins/scm-filter-branch-pr"
 developers:
   - "sag47"
+  - "jonesbusy"
+cd:
+  enabled: true

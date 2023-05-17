@@ -7,3 +7,6 @@ paths:
   - "sp/sd/file-operations"
 developers:
   - "pskumar448"
+  - "jonesbusy"
+cd:
+  enabled: true
